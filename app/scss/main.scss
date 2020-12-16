@@ -1,0 +1,20 @@
+body {
+    background-color: #fff;
+}
+
+.test {
+    margin: 0;
+}
+
+.header__menu {
+    background: #fff;
+    .header__menu-link {
+        font-size: 13px;
+        color: #fff;
+        margin-top: 100px;
+    }
+}
+
+.box {
+    display: flex;
+}
